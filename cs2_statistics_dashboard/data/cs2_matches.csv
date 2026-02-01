@@ -1,0 +1,81 @@
+date,team,opponent,map,result,score,event
+2026-01-10,NAVI,G2,Mirage,Win,16-12,IEM Katowice 2026
+2026-01-11,Faze,Vitality,Inferno,Loss,14-16,IEM Katowice 2026
+2026-01-12,Spirit,NAVI,Nuke,Win,16-9,IEM Katowice 2026
+2026-01-13,G2,Faze,Ancient,Win,16-11,IEM Katowice 2026
+2026-01-14,Vitality,Spirit,Overpass,Loss,13-16,IEM Katowice 2026
+2026-02-05,NAVI,Heroic,Mirage,Win,16-10,BLAST Spring 2026
+2026-02-06,Faze,Spirit,Nuke,Loss,12-16,BLAST Spring 2026
+2026-02-07,G2,Vitality,Inferno,Win,16-14,BLAST Spring 2026
+2026-02-08,Heroic,NAVI,Ancient,Loss,11-16,BLAST Spring 2026
+2026-02-09,Spirit,G2,Overpass,Win,16-13,BLAST Spring 2026
+2026-03-01,NAVI,Faze,Mirage,Loss,14-16,ESL Pro League S21
+2026-03-02,Vitality,G2,Inferno,Win,16-8,ESL Pro League S21
+2026-03-03,Spirit,Heroic,Nuke,Win,16-7,ESL Pro League S21
+2026-03-04,Faze,Vitality,Ancient,Win,16-13,ESL Pro League S21
+2026-03-05,G2,NAVI,Overpass,Loss,10-16,ESL Pro League S21
+2026-04-12,NAVI,Spirit,Mirage,Win,16-9,PGL Major Copenhagen 2026
+2026-04-13,Faze,G2,Inferno,Win,16-11,PGL Major Copenhagen 2026
+2026-04-14,Vitality,Heroic,Nuke,Loss,13-16,PGL Major Copenhagen 2026
+2026-04-15,Spirit,Faze,Ancient,Win,16-14,PGL Major Copenhagen 2026
+2026-04-16,G2,Vitality,Overpass,Win,16-12,PGL Major Copenhagen 2026
+2026-05-20,NAVI,G2,Mirage,Win,16-13,BLAST World Final 2026
+2026-05-21,Faze,Spirit,Nuke,Loss,11-16,BLAST World Final 2026
+2026-05-22,Vitality,NAVI,Inferno,Win,16-14,BLAST World Final 2026
+2026-05-23,Heroic,G2,Ancient,Loss,12-16,BLAST World Final 2026
+2026-05-24,Spirit,Vitality,Overpass,Win,16-10,BLAST World Final 2026
+2026-06-10,NAVI,Faze,Mirage,Loss,15-19,IEM Cologne 2026
+2026-06-11,G2,Spirit,Inferno,Win,16-13,IEM Cologne 2026
+2026-06-12,Vitality,Heroic,Nuke,Win,16-8,IEM Cologne 2026
+2026-06-13,Faze,G2,Ancient,Loss,13-16,IEM Cologne 2026
+2026-06-14,Spirit,NAVI,Overpass,Win,16-14,IEM Cologne 2026
+2024-01-12,BAD NEWS EAGLES,ENCE,Mirage,Win,16-14,BLAST Spring Groups 2024
+2024-01-13,BAD NEWS EAGLES,OG,Inferno,Loss,12-16,BLAST Spring Groups 2024
+2024-01-15,BAD NEWS EAGLES,MOUZ,Nuke,Loss,9-16,BLAST Spring Groups 2024
+2024-02-03,BAD NEWS EAGLES,Complexity,Ancient,Win,16-11,IEM Katowice Play-In 2024
+2024-02-04,BAD NEWS EAGLES,Cloud9,Overpass,Loss,13-16,IEM Katowice Play-In 2024
+2024-02-18,BAD NEWS EAGLES,Astralis,Mirage,Loss,10-16,ESL Pro League S19
+2024-02-19,BAD NEWS EAGLES,FURIA,Inferno,Win,16-13,ESL Pro League S19
+2024-02-21,BAD NEWS EAGLES,HEROIC,Nuke,Loss,11-16,ESL Pro League S19
+2024-03-10,BAD NEWS EAGLES,Monte,Ancient,Win,16-12,PGL Major RMR 2024
+2024-03-12,BAD NEWS EAGLES,FaZe,Overpass,Loss,8-16,PGL Major RMR 2024
+2023-10-05,BAD NEWS EAGLES,Fnatic,Mirage,Win,16-14,ESL Challenger Jonkoping 2023
+2023-10-06,BAD NEWS EAGLES,Apeks,Inferno,Loss,14-16,ESL Challenger Jonkoping 2023
+2023-10-08,BAD NEWS EAGLES,Movistar Riders,Nuke,Win,16-10,ESL Challenger Jonkoping 2023
+2023-11-12,BAD NEWS EAGLES,9INE,Ancient,Loss,13-16,BLAST Showdown 2023
+2023-11-14,BAD NEWS EAGLES,Big,Overpass,Loss,12-16,BLAST Showdown 2023
+2025-01-10,NAVI,Spirit,Mirage,Win,16-11,IEM Katowice 2025
+2025-01-11,G2,Faze,Inferno,Loss,13-16,IEM Katowice 2025
+2025-01-12,Vitality,NAVI,Nuke,Win,16-9,IEM Katowice 2025
+2025-01-13,Heroic,G2,Ancient,Loss,12-16,IEM Katowice 2025
+2025-01-14,Spirit,Faze,Overpass,Win,16-14,IEM Katowice 2025
+2025-02-03,NAVI,Heroic,Mirage,Win,16-8,BLAST Spring 2025
+2025-02-04,Faze,Spirit,Nuke,Loss,11-16,BLAST Spring 2025
+2025-02-05,G2,Vitality,Inferno,Win,16-14,BLAST Spring 2025
+2025-02-06,Vitality,Heroic,Ancient,Win,16-10,BLAST Spring 2025
+2025-02-07,Spirit,NAVI,Overpass,Loss,13-16,BLAST Spring 2025
+2026-07-02,NAVI,G2,Mirage,Win,16-9,ESL Pro League S22
+2026-07-03,Faze,Vitality,Inferno,Loss,14-16,ESL Pro League S22
+2026-07-04,Spirit,Heroic,Nuke,Win,16-10,ESL Pro League S22
+2026-07-05,G2,Spirit,Ancient,Loss,13-16,ESL Pro League S22
+2026-07-06,Vitality,NAVI,Overpass,Win,16-12,ESL Pro League S22
+2026-08-10,NAVI,Faze,Mirage,Loss,15-19,IEM Cologne 2026
+2026-08-11,G2,Spirit,Inferno,Win,16-13,IEM Cologne 2026
+2026-08-12,Vitality,Heroic,Nuke,Win,16-8,IEM Cologne 2026
+2026-08-13,Faze,G2,Ancient,Loss,13-16,IEM Cologne 2026
+2026-08-14,Spirit,NAVI,Overpass,Win,16-14,IEM Cologne 2026
+2024-06-01,BAD NEWS EAGLES,ENCE,Mirage,Loss,13-16,ESL Challenger League 2024
+2024-06-02,BAD NEWS EAGLES,SAW,Inferno,Win,16-11,ESL Challenger League 2024
+2024-06-03,BAD NEWS EAGLES,9Pandas,Nuke,Win,16-10,ESL Challenger League 2024
+2024-06-04,BAD NEWS EAGLES,Monte,Ancient,Loss,12-16,ESL Challenger League 2024
+2024-06-05,BAD NEWS EAGLES,Aurora,Overpass,Win,16-14,ESL Challenger League 2024
+2023-09-01,BAD NEWS EAGLES,Into The Breach,Mirage,Win,16-13,Europe RMR Open 2023
+2023-09-02,BAD NEWS EAGLES,Endpoint,Inferno,Loss,14-16,Europe RMR Open 2023
+2023-09-03,BAD NEWS EAGLES,IKLA,Nuke,Win,16-7,Europe RMR Open 2023
+2023-09-04,BAD NEWS EAGLES,Preasy,Ancient,Win,16-12,Europe RMR Open 2023
+2023-09-05,BAD NEWS EAGLES,BIG,Overpass,Loss,11-16,Europe RMR Open 2023
+2025-05-18,NAVI,Vitality,Mirage,Win,16-14,BLAST World Final 2025
+2025-05-19,Faze,G2,Inferno,Loss,13-16,BLAST World Final 2025
+2025-05-20,Spirit,Heroic,Nuke,Win,16-9,BLAST World Final 2025
+2025-05-21,G2,NAVI,Ancient,Loss,12-16,BLAST World Final 2025
+2025-05-22,Vitality,Spirit,Overpass,Win,16-11,BLAST World Final 2025
